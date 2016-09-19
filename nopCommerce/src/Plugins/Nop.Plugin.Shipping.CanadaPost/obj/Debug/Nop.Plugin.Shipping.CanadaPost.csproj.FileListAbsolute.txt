@@ -8,3 +8,13 @@ D:\Documentos\Prog\nopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.CanadaP
 D:\Documentos\Prog\nopCommerce\src\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.csprojResolveAssemblyReference.cache
 D:\Documentos\Prog\nopCommerce\src\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.dll
 D:\Documentos\Prog\nopCommerce\src\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.pdb
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Views\ShippingCanadaPost\Configure.cshtml
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\web.config
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Description.txt
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\logo.jpg
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll.config
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.pdb
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.csprojResolveAssemblyReference.cache
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.dll
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.pdb

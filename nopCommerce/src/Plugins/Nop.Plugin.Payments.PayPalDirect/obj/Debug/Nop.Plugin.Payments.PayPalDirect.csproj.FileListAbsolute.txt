@@ -10,3 +10,15 @@ D:\Documentos\Prog\nopCommerce\src\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\
 D:\Documentos\Prog\nopCommerce\src\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache
 D:\Documentos\Prog\nopCommerce\src\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
 D:\Documentos\Prog\nopCommerce\src\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentPayPalDirect\Configure.cshtml
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentPayPalDirect\PaymentInfo.cshtml
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\web.config
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Description.txt
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\logo.jpg
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll.config
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csproj.App.config
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb

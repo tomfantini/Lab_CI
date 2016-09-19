@@ -11,3 +11,16 @@ D:\Documentos\Prog\nopCommerce\src\Presentation\Nop.Web\Plugins\Pickup.PickupInS
 D:\Documentos\Prog\nopCommerce\src\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.csprojResolveAssemblyReference.cache
 D:\Documentos\Prog\nopCommerce\src\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.dll
 D:\Documentos\Prog\nopCommerce\src\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.pdb
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Description.txt
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\PickupInStore\Configure.cshtml
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\PickupInStore\Create.cshtml
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\PickupInStore\Edit.cshtml
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\PickupInStore\_CreateOrUpdate.cshtml
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\web.config
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\logo.png
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll.config
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.pdb
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.csprojResolveAssemblyReference.cache
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.dll
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.pdb

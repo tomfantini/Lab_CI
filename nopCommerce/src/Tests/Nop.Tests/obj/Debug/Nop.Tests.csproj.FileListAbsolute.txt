@@ -7,3 +7,12 @@ D:\Documentos\Prog\nopCommerce\src\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.xml
 D:\Documentos\Prog\nopCommerce\src\Tests\Nop.Tests\obj\Debug\Nop.Tests.csprojResolveAssemblyReference.cache
 D:\Documentos\Prog\nopCommerce\src\Tests\Nop.Tests\obj\Debug\Nop.Tests.dll
 D:\Documentos\Prog\nopCommerce\src\Tests\Nop.Tests\obj\Debug\Nop.Tests.pdb
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Tests\Nop.Tests\bin\Debug\Nop.Tests.dll
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Tests\Nop.Tests\bin\Debug\Nop.Tests.pdb
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Tests\Nop.Tests\bin\Debug\nunit.framework.dll
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.dll
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Tests\Nop.Tests\bin\Debug\nunit.framework.xml
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.xml
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Tests\Nop.Tests\obj\Debug\Nop.Tests.csprojResolveAssemblyReference.cache
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Tests\Nop.Tests\obj\Debug\Nop.Tests.dll
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Tests\Nop.Tests\obj\Debug\Nop.Tests.pdb

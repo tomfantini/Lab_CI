@@ -9,3 +9,14 @@ D:\Documentos\Prog\nopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Purchas
 D:\Documentos\Prog\nopCommerce\src\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csproj.App.config
 D:\Documentos\Prog\nopCommerce\src\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
 D:\Documentos\Prog\nopCommerce\src\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\Configure.cshtml
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\PaymentInfo.cshtml
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csproj.App.config
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb

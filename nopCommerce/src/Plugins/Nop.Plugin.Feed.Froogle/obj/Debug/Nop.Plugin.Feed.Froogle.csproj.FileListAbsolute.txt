@@ -9,3 +9,14 @@ D:\Documentos\Prog\nopCommerce\src\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop
 D:\Documentos\Prog\nopCommerce\src\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.csproj.App.config
 D:\Documentos\Prog\nopCommerce\src\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
 D:\Documentos\Prog\nopCommerce\src\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Feed.Froogle\Views\FeedFroogle\Configure.cshtml
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Feed.Froogle\Description.txt
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Feed.Froogle\web.config
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Feed.Froogle\Content\styles.css
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Feed.Froogle\logo.jpg
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll.config
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.pdb
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.csproj.App.config
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb

@@ -5,3 +5,10 @@ D:\Documentos\Prog\nopCommerce\src\Presentation\Nop.Web\Administration\obj\Debug
 D:\Documentos\Prog\nopCommerce\src\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csprojResolveAssemblyReference.cache
 D:\Documentos\Prog\nopCommerce\src\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.dll
 D:\Documentos\Prog\nopCommerce\src\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.pdb
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\bin\Nop.Admin.dll.config
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\bin\Nop.Admin.dll
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\bin\Nop.Admin.pdb
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csproj.App.config
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csprojResolveAssemblyReference.cache
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.dll
+D:\Documentos\CI\Lab_CI\nopCommerce\src\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.pdb
